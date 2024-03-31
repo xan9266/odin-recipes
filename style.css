@@ -1,0 +1,15 @@
+body {
+    background-color: #c8c8c8;
+}
+
+h1 {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 3rem;
+}
+
+a {
+    color: #d56060;
+    font-size: 2rem;
+}
